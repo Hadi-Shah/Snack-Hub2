@@ -1,0 +1,41 @@
+.grey{
+    color: grey;
+}
+.fancy{
+    font-family: cursive ;
+  }
+.fonts{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+.black{
+        color: rgb(99, 83, 83);
+        padding: 4px;
+    }
+.container{
+    background-color: rgba(169, 217, 228, 0.31);
+    border: 3px solid;
+    padding: 34px 19px;
+    margin: 14px 19px;
+    border-radius: 33px;
+}
+.navbar{
+    background-color: rgb(55, 53, 53);
+    border-radius: 4px;
+    padding: 10px;
+    border-radius: 33px;
+    
+}
+.navbar ul{
+    overflow: auto;    
+
+}
+.navbar li{
+    float: left;
+    list-style: none;
+    margin: 9px 27px;
+}
+.navbar li a{
+    text-decoration: none;
+    color: aliceblue;
+
+}

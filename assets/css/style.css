@@ -1,9 +1,16 @@
-*,body{
+*{
     margin: 0px;
-    padding: 0px;
+    padding: 1px;
+}
+body{
+margin-left:20px;
+margin:right:20px;
 }
 .grey{
     color: grey;
+}
+h1{
+    text-align:center;
 }
 .fancy{
     font-family: cursive ;
@@ -22,24 +29,37 @@
     margin: 14px 19px;
     border-radius: 33px;
 }
+
+
 .navbar{
-    background-color: rgb(55, 53, 53);
-    border-radius: 4px;
-    padding: 10px;
-    border-radius: 33px;
-    
+    color:black;
 }
-.navbar ul{
-    overflow: auto;    
+
+
+.navbar a{
+   text-decoration :none;
+color:white;
+padding:15px;
+display:block;
+text-align:center;  
 
 }
+
+
 .navbar li{
-    float: left;
-    list-style: none;
-    margin: 9px 27px;
+float:left;
 }
-.navbar li a{
-    text-decoration: none;
-    color: aliceblue;
 
+
+.navbar ul{
+list-style-type:none;
+background-color:rgb(63,62,62);
+padding:0px;
+overflow:hidden;
+margin:0px;
+
+}
+.navbar a:hover{
+background-color: rgb(31,30,30);
+color: rgb(125,140,255);
 }

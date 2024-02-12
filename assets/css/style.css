@@ -33,12 +33,13 @@ h1{
 
 
 .navbar a{
-   text-decoration :none;
+text-decoration :none;
 color:white;
 padding:15px;
 display:block;
 text-align:center;  
 border-radius:22px;
+transition: 0.5s;
 }
 
 
@@ -58,4 +59,5 @@ margin:0px;
 .navbar a:hover{
 background-color: rgb(31,30,30);
 color: rgb(125,140,255);
+transition: ease-in-out 0.5s;
 }

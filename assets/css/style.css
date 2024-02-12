@@ -39,7 +39,6 @@ h1{
     display: block;
     text-align: center;  
     border-radius: 22px;
-    transition: 0.5s;
 }
 
 
@@ -58,5 +57,5 @@ h1{
 .navbar a:hover{
     background-color: rgba(31,30,30,1);
     color: rgb(125,140,255);
-    transition: ease-in-out 0.5s;
+    transition: ease-in-out 0.3s;
 }

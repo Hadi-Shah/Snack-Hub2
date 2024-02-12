@@ -59,4 +59,7 @@ h1{
     overflow: hidden;
     margin: 0px;
 }
-
+.all-img{
+    max-width: 100%;
+    pointer-events: none;
+}

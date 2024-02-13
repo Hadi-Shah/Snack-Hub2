@@ -108,6 +108,8 @@ section {
 .section-bg {
   /*background-color: rgba(0, 0, 0, 0.075);*/
   background-image: url("../img/SHimg4.jpg");
+  background-repeat: no-repeat;
+  background-size: contain, cover;
 }
 
 /* main from here */

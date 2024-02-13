@@ -109,7 +109,8 @@ section {
   /*background-color: rgba(0, 0, 0, 0.075);*/
   background-image: url("../img/SHimg4.jpg");
   background-repeat: no-repeat;
-  background-size: fixed, cover;
+  background-size: cover;
+  opacity: 0.5;
 }
 
 /* main from here */
@@ -118,7 +119,7 @@ section {
   font-family: var(--font-primary);
   font-weight: 700;
   color: #fff;
-  padding: 0px 0px 20px;
+  padding: 0px 0px 25px;
 }
 
 system-ui.hero h2 {

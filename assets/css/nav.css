@@ -1,0 +1,51 @@
+/*--------------------------------------------------------------
+# Header
+--------------------------------------------------------------*/
+.header {
+  background: #fff;
+  transition: all 0.5s;
+  z-index: 997;
+  height: 90px;
+  border-bottom: 1px solid #fff;
+}
+
+@media (max-width: 575px) {
+  .header {
+    height: 70px;
+  }
+}
+
+.header .logo img {
+  max-height: 40px;
+  margin-right: 6px;
+  border-radius: 50%;
+}
+
+.header .logo h1 {
+  font-size: 28px;
+  font-weight: 700;
+  color: #000;
+  margin: 0;
+  font-family: var(--font-secondary);
+}
+
+.header .logo h1 span {
+  color: var(--color-primary);
+}
+
+.header .btn-search-list,
+.header .btn-search-list:focus {
+  font-size: 14px;
+  color: #fff;
+  background: var(--color-primary);
+  padding: 4px 10px;
+  margin-left: 10px;
+  border-radius: 50px;
+  transition: 0.3s;
+}
+
+.header .btn-search-list:hover,
+.header .btn-search-list:focus:hover {
+  color: #fff;
+  background: rgba(206, 18, 18, 0.8);
+}￼Enter

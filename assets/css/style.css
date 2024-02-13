@@ -121,15 +121,15 @@ section {
   /*background-image: url("../img/SHimg4.jpg");*/
   position: relative; 
  /* height: 100vh;
-  width: 100%;
+  width: 100%;*/
   display: flex;
   align-items: center;
-  justify-content: center;*/
+  justify-content: center;
 
 }
 #hero .container{
   position: relative;
-  color: #000;  
+  color: var(--color-primary);  
   font-size: 40px;
   line-height: 0.9;
   /*text-align: center;*/

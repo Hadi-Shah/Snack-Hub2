@@ -118,6 +118,7 @@ section {
   font-family: var(--font-primary);
   font-weight: 700;
   color: #fff;
+  padding: 0px 0px 20px;
 }
 
 system-ui.hero h2 {

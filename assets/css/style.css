@@ -72,7 +72,7 @@ img {
 .header .logo h1 {
   font-size: 28px;
   font-weight: 700;
-  color: #fff;
+  color: #000;
   margin: 0;
   font-family: var(--font-secondary);
 }
@@ -110,13 +110,12 @@ section {
   background-image: url("../img/SHimg4.jpg");
 }
 
-
 /* main from here */
 .hero .menu {
   font-size: 40px;
   font-family: var(--font-primary);
   font-weight: 700;
-  
+  color: #fff;
 }
 
 system-ui.hero h2 {

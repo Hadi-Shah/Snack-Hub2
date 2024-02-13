@@ -50,7 +50,7 @@ img {
 # Header
 --------------------------------------------------------------*/
 .header {
-  background-image: url("../img/SHimage4.jpg");
+  background-image: url("../img/SHimg4.jpg");
   transition: all 0.5s;
   z-index: 997;
   height: 90px;

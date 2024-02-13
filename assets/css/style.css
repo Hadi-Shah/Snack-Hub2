@@ -109,7 +109,7 @@ section {
   background-image: url('../img/SHimg4.jpg');
   background-size: cover;
   background-repeat: no-repeat;
-  /*position: absolute;*/
+  position: absolute;
   top: 0px;
   right: 0px;
   bottom: 0px;

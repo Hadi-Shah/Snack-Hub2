@@ -104,13 +104,15 @@ section {
   overflow: hidden;
   padding: 20px 0px;/*20 0*/
 }
-
+.section-color { background-color: rgba(225,225,225,0.5); z-index: 1;}
 .section-bg {
   /*background-color: rgba(0, 0, 0, 0.075);*/
   background-image: url("../img/SHimg4.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   opacity: 1;
+  z-index: -1;
+
 }
 
 /* main from here */

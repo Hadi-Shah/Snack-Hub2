@@ -129,8 +129,8 @@ section {
 }
 #hero .container{
   position: relative;
-  color: var(--color-primary);  
-  font-size: 40px;
+  /*color: var(--color-primary);
+  font-size: 40px;*/
   line-height: 0.9;
   /*text-align: center;*/
 }
@@ -139,7 +139,7 @@ section {
   font-size: 40px;
   font-family: var(--font-primary);
   font-weight: 700;
-  color: #000;
+  color: var(--color-primary);
   padding: 0px 0px 25px;
 }
 

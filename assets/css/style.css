@@ -102,7 +102,7 @@ img {
 --------------------------------------------------------------*/
 section {
   overflow: hidden;
-  padding: 40px 40px;/*20 0*/
+  padding: 20px 0px;/*20 0*/
 }
 
 .section-bg {

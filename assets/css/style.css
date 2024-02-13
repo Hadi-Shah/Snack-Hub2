@@ -104,7 +104,17 @@ section {
   overflow: hidden;
   padding: 20px 0px;/*20 0*/
 }
-.bg-ico { background: rgba(0,0,0,0.5);}
+.section-bg::before {
+  content: "";
+  background-image: url('https://placekitten.com/1200/800');
+  background-size: cover;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 0.75;
+}
 .section-bg {
   /*background-color: rgba(0, 0, 0, 0.075);*/
   background-image: url("../img/SHimg4.jpg");

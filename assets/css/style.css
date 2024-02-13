@@ -30,7 +30,7 @@ h1{
 
 .navbar{
     color: black;
-    height: 50px;
+    height: auto;
 }
 
 .navbar a {

@@ -139,7 +139,7 @@ section {
   font-size: 40px;
   font-family: var(--font-primary);
   font-weight: 700;
-  color: var(--color-primary);
+  color: 000;
   padding: 0px 0px 25px;
 }
 

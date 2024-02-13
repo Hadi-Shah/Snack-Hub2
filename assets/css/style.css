@@ -136,9 +136,9 @@ section {
 }
 /* main from here */
 .hero .menu {
-  font-size: 40px;
+  font-size: 50px;
   font-family: var(--font-primary);
-  font-weight: 700;
+  font-weight: 500;
   color: 000;
   padding: 0px 0px 25px;
 }

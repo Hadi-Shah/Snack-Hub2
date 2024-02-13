@@ -114,20 +114,26 @@ section {
   right: 0px;
   bottom: 0px;
   left: 0px;
-  opacity: 0.75;
+  opacity: 0.55;
 }
 .section-bg {
   /*background-color: rgba(0, 0, 0, 0.075);*/
   /*background-image: url("../img/SHimg4.jpg");*/
   position: relative; 
-  height: 100vh;
+ /* height: 100vh;
   width: 100%;
-  display: flex;
+  display: flex;*/
   align-items: center;
   justify-content: center;
 
 }
-
+#hero .container{
+  position: relative;
+  color: #ffffff;  
+  font-size: 40px;
+  line-height: 0.9;
+  text-align: center;
+}
 /* main from here */
 .hero .menu {
   font-size: 40px;

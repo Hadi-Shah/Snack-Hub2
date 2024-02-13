@@ -104,7 +104,7 @@ section {
   overflow: hidden;
   padding: 20px 0px;/*20 0*/
 }
-.section-color { background-color: rgba( 0, 0, 0, 0.5); z-index: 11;}
+.section-color { background-color: rgba( 0, 0, 0, 1); z-index: 11;}
 .section-bg {
   /*background-color: rgba(0, 0, 0, 0.075);*/
   background-image: url("../img/SHimg4.jpg");

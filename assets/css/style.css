@@ -107,7 +107,7 @@ section {
 
 .section-bg {
   /*background-color: rgba(0, 0, 0, 0.075);*/
-  background-image: url("../img/SHimg4.jpg", 0.5);
+  background-image: url("../img/SHimg4.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   opacity: 1;

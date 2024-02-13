@@ -106,9 +106,10 @@ section {
 }
 .section-bg::before {
   content: "";
-  background-image: url('https://placekitten.com/1200/800');
+  background-image: url('../img/SHimg4.jpg');
   background-size: cover;
-  position: absolute;
+  background-repeat: no-repeat;
+  /*position: absolute;*/
   top: 0px;
   right: 0px;
   bottom: 0px;
@@ -117,7 +118,7 @@ section {
 }
 .section-bg {
   /*background-color: rgba(0, 0, 0, 0.075);*/
-  background-image: url("../img/SHimg4.jpg");
+  /*background-image: url("../img/SHimg4.jpg");*/
   background-repeat: no-repeat;
   background-size: cover;
   opacity: 1;

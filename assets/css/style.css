@@ -50,7 +50,7 @@ img {
 # Header
 --------------------------------------------------------------*/
 .header {
-  background-image: url("../img/SHimg4.jpg");
+  background: #fff;
   transition: all 0.5s;
   z-index: 997;
   height: 90px;
@@ -106,7 +106,8 @@ section {
 }
 
 .section-bg {
-  background-color: rgba(0, 0, 0, 0.075);
+  /*background-color: rgba(0, 0, 0, 0.075);*/
+  background-image: url("../img/SHimg4.jpg");
 }
 
 

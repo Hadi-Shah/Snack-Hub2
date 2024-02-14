@@ -561,3 +561,10 @@ input[type="button"].btn-block, input[type="reset"].btn-block, input[type="submi
   margin-right: 30px;
   border-radius: 5px;
 }
+
+.grey{
+  color:grey;
+}
+.fancy{
+  font-family: cursive;
+}

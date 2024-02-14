@@ -568,3 +568,4 @@ input[type="button"].btn-block, input[type="reset"].btn-block, input[type="submi
 .fancy{
   font-family: cursive;
 }
+.photo-top{border-radius: 5px 0px;}.photo-bottom{border-radius: 0px 5px;}

@@ -331,9 +331,9 @@ system-ui.hero h2 {
 }
 /* Start */
 /* Discord */
-.footer .social-links a.discord:hover {
+.footer .social-links a.facebook:hover {
   color: #fff;
-  background: rgba(114, 137, 218, 1);
+  background: rgba(24, 119, 242, 1);
   transform: scale(1.1);
   transition: 0.3s;
 }
@@ -346,8 +346,8 @@ system-ui.hero h2 {
   transition: 0.3s;
 }
 /* Telegram */
-.footer .social-links a.telegram:hover {
-  background: rgba(0, 136, 204, 1);
+.footer .social-links a.twitter:hover {
+  background: rgba(29, 161, 242, 1);
   transform: scale(1.1);
   transition: 0.3s;
 }

@@ -1,4 +1,4 @@
-/*
+
 #body23 {
     font-family: Arial, sans-serif;
     background-color: #f2f2f2;
@@ -7,15 +7,17 @@
     align-items: center;
     height: 100vh;
     margin: 0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 .container23{
     background-color: #fff;
     padding: 20px;
     border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
     max-width: 500px;
     width: 100%;
+    
 }
 
 h1 {
@@ -34,18 +36,11 @@ label {
     color: #555;
 }
 
-#nam {
+.nam {
     margin-bottom: 15px;
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 3px;
-}
-
-#feed{
-  margin-bottom: 15px;
-  padding: 10px;
-  border: 1px solid #ccc;
-  border-radius: 3px;
 }
 
 button {
@@ -58,28 +53,31 @@ button {
     font-size: 16px;
     
 }
-
 button:hover {
     background-color: orange;
 }
 
-*/
 
 
 
+
+
+
+/*
 
 * {
     box-sizing: border-box;
 }
 
-body {
+
+body23 {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     margin: 0;
     padding: 0;
 }
 
-.container {
+.container23 {
     max-width: 600px;
     margin: 50px auto;
     padding: 20px;
@@ -103,7 +101,13 @@ label {
     font-weight: bold;
 }
 
-input, select, textarea {
+input, select {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+#feed{
     margin-bottom: 15px;
     padding: 10px;
     border: 1px solid #ccc;
@@ -123,3 +127,4 @@ button {
 button:hover {
     background-color: #4cae4c;
 }
+*/
